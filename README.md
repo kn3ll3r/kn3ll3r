@@ -1,52 +1,9 @@
-<div align=center>
-  
-  # Hey there! 👋
-  
-  ## $whoami
-  
-  `Kn3ll3r, A programmer currently dabbling in computer security`
-</div>  
-<div align=center>
-  "It takes 20 years to build a reputation and few minutes of cyber-incident to ruin it.."
-  
-  Stephane Nappo.
-</div>
+## 👋 Hi there!
 
-- Skillset
-  
-  - Coding:
-      - I am fluent in:
-        - Python
-        - C
-        - C++
-        - Java
-        - C#
-      - I am familiar with:
-        - Javascript
-        - Assembly
-        - PHP
-      
-  - Education:
-      - I am a graduate of "Magshimim", Israel's national cyber exellence program
-      - I am in the top 4% of players in tryhackme [My current rank is [0x8][h4ck3r]]
-     
-  - Interests:
-      - Operating systems
-      - Web security
-      - Reverse engineering
-      - Cryptography
-    
-  ---
-  - 👯 I’m looking to collaborate on 
-    - Security related projects.
-  - 📫 How to reach me:
-    - For job offers or any professional help, please do contact me:
-        - Personal Mail: Yehonatankneller@gmail.com
-- 😄 Pronouns: 
-    - I'd appreciate you addressing me as he/him.
-  
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  <!-- GitHub StatCard-->
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  <img src="https://github-readme-stats.vercel.app/api?username=Ykking17&show_icons=true&theme=merko"/>
+I am kn3, I like Rev, cats and web <br />
+I'm also an amateur programmer, I suppose.
+
+<a href="https://discord.com/users/kneller"> <img src="https://web.evanchen.cc/icons/social-discord.png" height="48"></a>
+[![](https://skillicons.dev/icons?i=c,cpp,python,java,js,cs)](https://skillicons.dev)
+
   
